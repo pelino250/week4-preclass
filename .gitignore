@@ -1,0 +1,7 @@
+*.tfstate*
+.terraform/
+.terraform.lock.hcl.bak
+*.tfvars
+*.pem
+*.key
+.env
